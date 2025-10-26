@@ -1,7 +1,8 @@
 # ML-DL
-List of projects:
+List of projects (sort by date in ascending order):
 - Disease Risk by Daily Habits
 - Titanic Kaggle Competition
+- IBM Stocks
 
 ## Disease Risk by Daily Habits
 - Preprocessing (Standard Scaling, OHE, ESA)
@@ -15,3 +16,7 @@ ROC-AUC ~ 0.5 caused by uncorrelated data
 - Classification of Survived (KNN, SVM, Random Forest \w Grid Search & Pipeline)
 
 Best Score in competition ~ 0.75
+
+## IBM Stocks
+- Preprocessing (Standard Scaling, ESA, New columns)
+- Regression (Linear Regression, LASSO, Ridge-Regression)
